@@ -3,5 +3,5 @@
 public interface IProductService1
 {
     void GetPriceByType(Product product);
-    int GetTotalPrice(List<Product> products);
+    int GetTotalPrice(List<Product> products);    
 }
