@@ -29,7 +29,7 @@ namespace Promotion.Engine
     }
 }
 
-#region "Define other methods and classes here "
+#region "Define other methods and classes here"
 public class Product{
     public string Id { get; set; }
     public decimal Price { get; set; }  
